@@ -951,6 +951,7 @@ form a {
   font-size: 14px;
   line-height: 1.71;
   display: inline-block;
+  color: var(--accent-color);
 }
 
 .check {
